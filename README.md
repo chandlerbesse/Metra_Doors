@@ -8,5 +8,6 @@ For now, linear regression is serving its purpose, but as the dataset grows, I w
 be better suited for the problem!
 
 ## Installation
-1. Clone the repository
-2. Install dependencies with: pip install -r requirements.txt
+- Clone the repository
+- Install dependencies with `pip install -r requirements.txt`
+- Run `python main.py`
